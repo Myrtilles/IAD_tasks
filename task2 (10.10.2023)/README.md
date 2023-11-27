@@ -1,1 +1,1 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Myrtilles/main?labpath=https%3A%2F%2Fgithub.com%2FMyrtilles%2FIAD_tasks%2Fblob%2Fmain%2Ftask2%2520%2810.10.2023%29%2Ftask%25202.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Myrtilles/main)
